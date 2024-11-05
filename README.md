@@ -17,7 +17,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Personal Information
 
 - **Name:** Mazwi Putuma
-- **Date:** 04/08/2024
+- **Date:** 05/11/2024
 - **Current Role/Position:** Student
 - **Field of Interest:**  Electrical Engineering and Environmental Studies
 
@@ -30,12 +30,13 @@ By completing this reflection, you will gain a clearer understanding of your car
     • Vistual artistry
     • Writing
 
+
     - Identify skills you need to develop or improve.
 
-   • Coding in JavaScript and eventually other useful coding languages.
-   • Painting and sketching techniques.
+   • Coding in JavaScript, and eventually other useful coding languages.
+   • Painting and Sketching techniques.
    • Writing skills.
-   • Mathematical and Physics problem solving skills.
+   • Mathematical and Physics Problem Solving Skills.
 
 2. **Interests and Values**:
     
